@@ -1,4 +1,4 @@
-﻿namespace TeknoMagaza
+﻿namespace Hafta4_Kapanis
 {
     public class Telefon : BaseMakine
     {

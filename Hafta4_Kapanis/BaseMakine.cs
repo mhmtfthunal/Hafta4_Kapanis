@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TeknoMagaza
+namespace Hafta4_Kapanis
 {
     // Inheritance + Abstraction
     public abstract class BaseMakine

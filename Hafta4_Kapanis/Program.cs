@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TeknoMagaza
+namespace Hafta4_Kapanis
 {
     class Program
     {
